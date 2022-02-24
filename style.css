@@ -1,0 +1,103 @@
+body {
+  color: #E73FB2;
+  font-family: 'Bungee', cursive;
+  box-sizing: border-box;
+  background-color: #3659a2;
+  background: url(lotto.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+main {
+  width: 90%;
+  max-width: 1080px;
+  padding: 40px 0 0;
+  margin: 0 auto;
+}
+
+div {
+  color: #F7EC06;
+  font-family: 'Press Start 2P', cursive;
+  font-weight: 500;
+  font-size: .60em;
+  text-align: center;
+  line-height: 58px;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  background-color: #FE3908;
+  border-radius: 50%;
+  margin: 0.5em;
+  padding: 0.6em;
+}
+
+h1 {
+  font-size: 2.50em;
+  color: #F9F5F4;
+}
+
+h2 {
+  font-size: 1.75em;
+  color: #F9F5F4;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.00;
+}
+
+button {
+  cursor: pointer;
+  border: 2px solid #FE3908;
+  background-color: transparent;
+  height: 70px; 
+  width: 200px;
+  color: #FE3908;
+  font-family: 'Bungee', cursive;
+  font-size: 1.5em;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+
+button:hover {
+  border: 2px solid #0A090C;
+  background-color: #F7EC06;
+  color: #0A090C;
+}
+
+button:active {
+  background-color: transparent;
+  color: #F9F5F4;
+}
+
+mark {
+  color: #E73FB2;
+  font-family: 'Press Start 2P', cursive;
+  font-weight: 500;
+  font-size: .60em;
+  text-align: center;
+  line-height: 58px;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  background-color: #5AEB1B;
+  border-radius: 50%;
+  margin: 0.5em;
+}
+
+.title {
+  color: #FE3908;
+  font-family: 'Bowlby One SC', cursive;
+  font-weight: 500;
+  font-size: .75em;
+  text-align: center;
+  line-height: 58px;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  background-color: #F7EC06;
+  border-radius: 50%;
+  margin: 0.5em;
+  padding: 1.1em;
+}
